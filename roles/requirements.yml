@@ -1,1 +1,3 @@
 - name: geerlingguy.haproxy
+- name: webserver
+  src: git@github.com:pburgisser-c2c/ansible-tower-demo-werbserver-role.git
