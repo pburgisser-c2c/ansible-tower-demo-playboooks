@@ -2,3 +2,6 @@
 - name: webserver
   src: git@github.com:pburgisser-c2c/ansible-tower-demo-werbserver-role.git
   scm: git
+- name: wscontent
+  src: git@github.com:pburgisser-c2c/ansible-tower-demo-wscontent-role.git
+  scm: git
