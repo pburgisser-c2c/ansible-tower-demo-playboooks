@@ -2,3 +2,5 @@ roles/*
 !roles/requirements.yml
 .vault
 vault.yaml
+.ssh
+inventory
